@@ -1,2 +1,2 @@
 # personal-project
-LSTM for detecting and correcting  misspelling in clinical notes
+bi-LSTM for detecting and correcting  misspelling in clinical notes
